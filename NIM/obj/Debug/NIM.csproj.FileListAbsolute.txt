@@ -1,0 +1,6 @@
+c:\users\mifo\documents\visual studio 2015\Projects\NIM\NIM\bin\Debug\NIM.exe.config
+c:\users\mifo\documents\visual studio 2015\Projects\NIM\NIM\bin\Debug\NIM.exe
+c:\users\mifo\documents\visual studio 2015\Projects\NIM\NIM\bin\Debug\NIM.pdb
+c:\users\mifo\documents\visual studio 2015\Projects\NIM\NIM\obj\Debug\NIM.csprojResolveAssemblyReference.cache
+c:\users\mifo\documents\visual studio 2015\Projects\NIM\NIM\obj\Debug\NIM.exe
+c:\users\mifo\documents\visual studio 2015\Projects\NIM\NIM\obj\Debug\NIM.pdb
